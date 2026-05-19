@@ -1,2 +1,6 @@
 # Calculadora-de-desconto-e-acr-scimo-discount-and-surcharge-calculator
-Calculadora simples de um iniciante em python, aceito feedbcaks
+Este projeto utiliza conceitos simples de Python, como:
+- Operadores
+- Entrada de dados
+- Impressão
+- Números flutuantes
